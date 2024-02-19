@@ -1,4 +1,4 @@
-# An empty shell for the virtual machine
+# Virtual Machine Abstraction
 class VirtualMachine
 
 end
